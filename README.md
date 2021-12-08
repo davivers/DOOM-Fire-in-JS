@@ -1,3 +1,3 @@
 # DOOM-Fire-in-JS
 
-https://prnt.sc/22cwpaa
+<img href="https://prnt.sc/22cwpaa"></img>
